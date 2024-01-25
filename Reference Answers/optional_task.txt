@@ -1,0 +1,27 @@
+Set counter to 0
+
+Create empty list of sorted numbers 
+
+While counter is less than 4 
+
+	Ask user for number
+
+	If counter is 0
+
+		Add number to list of sorted numbers
+
+	Else 
+
+		For each sorted number in the list of sorted numbers
+
+			If the sorted number is greater than the number
+			
+				Insert number before the sorted number
+
+			Else if this is the last item in the list 
+
+				Append number to the list
+
+Print sorted numbers list
+
+		

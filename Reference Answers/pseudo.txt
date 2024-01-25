@@ -1,0 +1,63 @@
+1.
+
+Ask user for positive number
+
+Set minimum to the positive number
+
+While the positive number is not 0
+	
+	If the positive number is less than minimum
+
+		Set minimum to the positive number
+	
+	Ask user for positive number
+
+Print minimum
+
+
+2.
+
+Set total to 0
+
+Set counter to 0
+
+While there are integers to read
+
+	Read integer
+	
+	Add integer to total
+
+	Increment counter
+
+Calculate average by dividing total by counter
+
+Return average
+
+
+3.
+
+For each item on the grocery list
+
+	If the item has not been bought
+
+		Add to list of items left to be bought
+
+Sort list of items left to be bought 
+
+Print out list of items left to be bought
+
+
+4.
+
+Read number and set it as X
+
+Read number and set it as Y
+
+Calculate S by adding X and Y
+
+Calculate A by dividing S by 2
+
+Calculate P by multiplying X by Y
+
+Write the values S, A and P
+
